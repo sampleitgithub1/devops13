@@ -4,3 +4,4 @@ hii
 hello
 github
 remote repo
+git has main bramch by default
